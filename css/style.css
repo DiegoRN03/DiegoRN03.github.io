@@ -1,0 +1,44 @@
+@import url('https://fonts.cdnfonts.com/css/pricedown');
+
+body{
+  font-family: 'Pricedown Bl', sans-serif;
+  background: url(https://m.media-amazon.com/images/M/MV5BMTAyYWYyOTMtNmUzNS00NzNjLTkyZTUtZjhlZjMzYzJmNzM5XkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_FMjpg_UX1000_.jpg);
+ background-position: right;
+ margin: 0;
+ padding: 0;
+background-repeat: no-repeat;
+ -webkit-background-size:cover;
+background-size: 70% 110%;
+  background-position: 110%;
+}
+
+#container{
+  background-color: #000000;
+  width: 424px;
+  color: white;
+  padding: 15px;
+}
+
+h1{
+  font-size: 80px;
+  color: #e9bf2b;
+  transition: all 1.5s ease-in-out;
+}
+h2{
+  background-color: #212527;
+  color: rgb(0, 28, 243);
+  padding: 5px;
+  border-radius: 5px;
+  
+}
+
+a{
+  color: #75c1f6;
+  text-decoration: none;
+}
+
+p{
+  font-size: 20px;
+  color: #e7e6e3;
+}
+
